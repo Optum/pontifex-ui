@@ -1,0 +1,9 @@
+pontifex-ui
+Copyright 2022 Optum
+
+Project Description:
+====================
+Sample Next.JS application for Pontifex
+
+Author(s):
+Alexander Aavang - @aaavang
